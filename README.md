@@ -2,6 +2,7 @@
 
 
 ![Alt text](https://github.com/guanalongaaa/GALGlobalView/raw/master/test2.gif)
+![Alt text](https://github.com/guanalongaaa/GALGlobalView/raw/master/1.png)
 
 通过对WMDragView 和 PopoverView 的简单集合，做出一个类似于苹果辅助按钮的小工具。
 
